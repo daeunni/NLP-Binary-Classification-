@@ -9,5 +9,10 @@
 2. 정수 인코딩 / 임베딩(Fasttext)
 3. LSTM + CNN층
 
+---
+
+## Ensemble
+Bert : Lstm = 6 : 4 최종 submission ensemble
+
 
 
